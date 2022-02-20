@@ -8,7 +8,7 @@ After reading the technical task, I followed the R&D procedures to solve the pro
 
 
 Deliverables:
-\n 1- a notebook code file in .mlx format
+1- a notebook code file in .mlx format
 2- a pdf presentation for the notebook code with the outputs
 3- CSV file for the output
 
